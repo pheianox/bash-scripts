@@ -1,5 +1,5 @@
 #! /bin/bash
-echo -n "Which version of Pythin do you want to install? :"
+echo -n "Which version of Python do you want to install? :"
 read version
 
 sudo apt update
