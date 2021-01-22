@@ -6,4 +6,4 @@ sudo apt update
 sudo apt install software-properties-common
 sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt update
-sudo apt install python$version
+sudo apt install python$version && echo "Python${version} installed"
