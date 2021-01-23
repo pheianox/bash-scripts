@@ -2,7 +2,7 @@
 This repository was created to run some basic scripts automatically to do some staff
 
 ## Requirements
-- Ubuntu 18.60 or above
+- Ubuntu 
 
 ## How to use
 1. Go ahead and clone the whole repository
