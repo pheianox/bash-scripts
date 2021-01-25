@@ -2,7 +2,7 @@
 echo "[#] Python Installation"
 echo -n "Diring Python installation your system will be updated. Do you want to continue? (y, n)"
 read res
-if [ $res -eq "y" ] 
+if [[ $res == "y" ][ 
 then
   echo -n "Which version of Python do you want to install? :"
   read version
